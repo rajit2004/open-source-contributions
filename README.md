@@ -3,7 +3,7 @@
 > A living record of every open-source project I've contributed to — PRs merged, issues closed, and communities I've been part of.
 
 [![Auto Updated](https://img.shields.io/badge/Auto%20Updated-Every%203hrs-brightgreen?style=flat&logo=githubactions)](https://github.com/rajit2004/open-source-contributions/actions)
-[![Total PRs](https://img.shields.io/badge/Merged%20PRs-14%2B-blue?style=flat&logo=github)](https://github.com/pulls?q=author%3Arajit2004+is%3Apr+is%3Amerged)
+[![Total PRs](https://img.shields.io/badge/Merged%20PRs-20%2B-blue?style=flat&logo=github)](https://github.com/pulls?q=author%3Arajit2004+is%3Apr+is%3Amerged)
 [![GitHub](https://img.shields.io/badge/GitHub-rajit2004-black?style=flat&logo=github)](https://github.com/rajit2004)
 
 ---
