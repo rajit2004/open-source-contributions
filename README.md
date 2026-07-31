@@ -22,8 +22,8 @@ This repo auto-tracks every merged PR I've made on external repositories. It upd
 | Metric | Count |
 |--------|-------|
 | Repositories Contributed To | 5 |
-| Total PRs Merged | 36 |
-| Last Updated | 31 Jul 2026, 11:29 UTC |
+| Total PRs Merged | 40 |
+| Last Updated | 31 Jul 2026, 13:50 UTC |
 <!-- STATS_END -->
 
 ---
@@ -34,7 +34,7 @@ This repo auto-tracks every merged PR I've made on external repositories. It upd
 | Repository | Description | PRs Merged | Labels | Latest PR | Date |
 |------------|-------------|:----------:|--------|-----------|------|
 | [Rishav123918/Parking_Application_C-](https://github.com/Rishav123918/Parking_Application_C-) | C++ parking system — forked and extended | 1 | — | [Parking System Application with more features ](https://github.com/Rishav123918/Parking_Application_C-/pull/1) | 2026-02-21 |
-| [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | Flutter music app — backend, auth, CI/CD (ECSoC26) | 28 | `ECSoC26` `ECSoC26-L3` `good-pr` `ECSoC26-SPAM` `ECSoC26-L1` | [feat : Add automatic local notifications for period pre…](https://github.com/ishita2740/Rhythma/pull/257) | 2026-07-29 |
+| [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | Flutter music app — backend, auth, CI/CD (ECSoC26) | 32 | `ECSoC26` `good-backend` `ECSoC26-L2` `ECSoC26-L3` `good-pr` | [feat (web) : bring web app to feature parity with the F…](https://github.com/ishita2740/Rhythma/pull/264) | 2026-07-31 |
 | [madhav2348/ss_ai](https://github.com/madhav2348/ss_ai) | AI-powered screenshot tool — OCR worker (SSoC26) | 1 | `SSoC26` `Medium` | [feat: add OCR worker stub](https://github.com/madhav2348/ss_ai/pull/101) | 2026-07-06 |
 | [rhoopphiuchi/Java_Enlightment](https://github.com/rhoopphiuchi/Java_Enlightment) | Java learning repo — README + file contributions | 2 | — | [Update README](https://github.com/rhoopphiuchi/Java_Enlightment/pull/3) | 2026-06-08 |
 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | Link-in-bio platform — security, DB indexes (ECSoC26) | 4 | `feature` `ECSoC26-L2` `ECSoC26` `ECSoC26-L1` `ECSoC26-SPRINT-L1` | [feat: replace magic strings with PLATFORMS constants (T…](https://github.com/vishnukothakapu/linkid/pull/358) | 2026-07-02 |
@@ -47,42 +47,46 @@ This repo auto-tracks every merged PR I've made on external repositories. It upd
 
 | # | Repository | PR Title | Labels | Date |
 |---|------------|----------|--------|------|
-| 1 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat : Add automatic local notifications for period prediction an…](https://github.com/ishita2740/Rhythma/pull/257) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-29 |
-| 2 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [Train and commit CVI XGBoost model artifact so the real model is …](https://github.com/ishita2740/Rhythma/pull/243) | `ECSoC26` `ECSoC26-SPAM` | 2026-07-28 |
-| 3 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [Persist assistant conversation history server side in Firestore](https://github.com/ishita2740/Rhythma/pull/242) | `ECSoC26` `ECSoC26-SPAM` | 2026-07-28 |
-| 4 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Add a Pydantic response model for the insights scores endpo…](https://github.com/ishita2740/Rhythma/pull/241) | `ECSoC26` `ECSoC26-L1` | 2026-07-28 |
-| 5 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: add auth flow with email/password login, refresh tokens, pa…](https://github.com/ishita2740/Rhythma/pull/240) | `ECSoC26` `ECSoC26-L3` | 2026-07-27 |
-| 6 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [Add backend test coverage for assistant/health APIs and fix pre-e…](https://github.com/ishita2740/Rhythma/pull/239) | `ECSoC26` `good-pr` `ECSoC26-L2` | 2026-07-27 |
-| 7 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: make CORS origins configurable via ALLOWED_ORIGINS env var](https://github.com/ishita2740/Rhythma/pull/238) | `ECSoC26` `ECSoC26-L1` | 2026-07-27 |
-| 8 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [ feat: add rate limiting to /assistant/chat endpoint and fix pre-…](https://github.com/ishita2740/Rhythma/pull/237) | `ECSoC26` `ECSoC26-L2` | 2026-07-27 |
-| 9 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [Feature: Data export flow (#106)](https://github.com/ishita2740/Rhythma/pull/208) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-25 |
-| 10 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: add delete action for cycle log entries with confirmation d…](https://github.com/ishita2740/Rhythma/pull/198) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-25 |
-| 11 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: add debug-only data mode indicator for live vs dev detectio…](https://github.com/ishita2740/Rhythma/pull/196) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-25 |
-| 12 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: wire lifestyle component of MHS to real profile data with f…](https://github.com/ishita2740/Rhythma/pull/195) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-25 |
-| 13 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [chore : remove isTesting flag and static mock fields from LocalSt…](https://github.com/ishita2740/Rhythma/pull/181) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-24 |
-| 14 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [fix (#124) : enforce HTTPS for release builds](https://github.com/ishita2740/Rhythma/pull/179) | `ECSoC26` `ECSoC26-L1` `good-pr` | 2026-07-23 |
-| 15 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [fix (#164) : null-safe stream getters and profile sync retry queu…](https://github.com/ishita2740/Rhythma/pull/168) | `ECSoC26` `good-pr` `ECSoC26-L2` | 2026-07-22 |
-| 16 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [chore : remove unused AssistantService.getLanguages() method](https://github.com/ishita2740/Rhythma/pull/167) | `ECSoC26` `ECSoC26-INVALID` | 2026-07-22 |
-| 17 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [chore : add Retry-After header to 429 rate-limit responses](https://github.com/ishita2740/Rhythma/pull/169) | `ECSoC26` `ECSoC26-L1` `good-pr` | 2026-07-22 |
-| 18 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: implement client-side Firebase initialization & offline-fir…](https://github.com/ishita2740/Rhythma/pull/154) | `ECSoC26` `good-backend` `ECSoC26-L3` | 2026-07-21 |
-| 19 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [perf (#145) : optimize cycle log history query with Firestore com…](https://github.com/ishita2740/Rhythma/pull/155) | `ECSoC26` `ECSoC26-L1` `good-pr` `backend` | 2026-07-20 |
-| 20 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat : Backend wiring for logging, dashboard, and insights (inclu…](https://github.com/ishita2740/Rhythma/pull/57) | `ECSoC26` `good-backend` `ECSoC26-L3` `good-pr` | 2026-07-20 |
-| 21 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: add rate limiting and generic auth error messages (Issue #3…](https://github.com/ishita2740/Rhythma/pull/52) | `enhancement` `ECSoC26` `ECSoC26-L2` `backend` | 2026-07-06 |
-| 22 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Phase 3 Flutter integration (JWT auth, remove Gemini key, b…](https://github.com/ishita2740/Rhythma/pull/22) | `enhancement` `ECSoC26` `good-backend` `ECSoC26-L3` | 2026-07-05 |
-| 23 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Implement CI/CD pipeline with GitHub Actions and minor bug …](https://github.com/ishita2740/Rhythma/pull/55) | `enhancement` `ECSoC26` `good-pr` `ECSoC26-L2` | 2026-07-09 |
-| 24 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [[BUG] : Fix Android build error by configuring coreLibraryDesugar…](https://github.com/ishita2740/Rhythma/pull/58) | `ECSoC26` `ECSoC26-L1` `good-pr` | 2026-07-09 |
-| 25 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: link SMS Summary screen into navigation and backend (#26)](https://github.com/ishita2740/Rhythma/pull/59) | `ECSoC26` `good-backend` `ECSoC26-L3` | 2026-07-17 |
-| 26 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: scaffold web application with JWT authentication and protec…](https://github.com/ishita2740/Rhythma/pull/60) | `ECSoC26` `good-backend` `good-pr` `ECSoC26-L2` | 2026-07-09 |
-| 27 | [madhav2348/ss_ai](https://github.com/madhav2348/ss_ai) | [feat: add OCR worker stub](https://github.com/madhav2348/ss_ai/pull/101) | `SSoC26` `Medium` | 2026-07-06 |
-| 28 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Phase 2 database integration with Firestore (real user stor…](https://github.com/ishita2740/Rhythma/pull/15) | `ECSoC26` `good-backend` `ECSoC26-L2` | 2026-07-04 |
-| 29 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: implement Phase 1 security fixes (JWT auth, rate limiting, …](https://github.com/ishita2740/Rhythma/pull/6) | `bug` `ECSoC26` `good-backend` `ECSoC26-L3` | 2026-07-03 |
-| 30 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | [feat: replace magic strings with PLATFORMS constants (Task 5)](https://github.com/vishnukothakapu/linkid/pull/358) | `feature` `ECSoC26-L2` `ECSoC26` | 2026-07-02 |
-| 31 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | [feat: add database indexes for performance (Task 3)](https://github.com/vishnukothakapu/linkid/pull/357) | `feature` `ECSoC26-L1` `ECSoC26` | 2026-07-01 |
-| 32 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | [feat: enforce strong password validation (Task 2)](https://github.com/vishnukothakapu/linkid/pull/356) | `feature` `ECSoC26-L1` `ECSoC26` | 2026-07-01 |
-| 33 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | [feat: add /api/health endpoint with database connectivity check](https://github.com/vishnukothakapu/linkid/pull/355) | `feature` `ECSoC26-L1` `ECSoC26` `ECSoC26-SPRINT-L1` | 2026-07-01 |
-| 34 | [rhoopphiuchi/Java_Enlightment](https://github.com/rhoopphiuchi/Java_Enlightment) | [Update README](https://github.com/rhoopphiuchi/Java_Enlightment/pull/3) | — | 2026-06-08 |
-| 35 | [rhoopphiuchi/Java_Enlightment](https://github.com/rhoopphiuchi/Java_Enlightment) | [Add files via upload](https://github.com/rhoopphiuchi/Java_Enlightment/pull/2) | — | 2026-06-08 |
-| 36 | [Rishav123918/Parking_Application_C-](https://github.com/Rishav123918/Parking_Application_C-) | [Parking System Application with more features ](https://github.com/Rishav123918/Parking_Application_C-/pull/1) | — | 2026-02-21 |
+| 1 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat (web) : bring web app to feature parity with the Flutter app](https://github.com/ishita2740/Rhythma/pull/264) | `ECSoC26` `good-backend` `ECSoC26-L2` | 2026-07-31 |
+| 2 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat : Add widget and unit tests for core screens and providers](https://github.com/ishita2740/Rhythma/pull/262) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-31 |
+| 3 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Add CI workflows for web app and landing page](https://github.com/ishita2740/Rhythma/pull/261) | `ECSoC26` `ECSoC26-L2` | 2026-07-31 |
+| 4 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat : Add OpenAPI descriptions and response models to backend AP…](https://github.com/ishita2740/Rhythma/pull/260) | `ECSoC26` `good-pr` `ECSoC26-L2` | 2026-07-31 |
+| 5 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat : Add automatic local notifications for period prediction an…](https://github.com/ishita2740/Rhythma/pull/257) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-29 |
+| 6 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [Train and commit CVI XGBoost model artifact so the real model is …](https://github.com/ishita2740/Rhythma/pull/243) | `ECSoC26` `ECSoC26-SPAM` | 2026-07-28 |
+| 7 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [Persist assistant conversation history server side in Firestore](https://github.com/ishita2740/Rhythma/pull/242) | `ECSoC26` `ECSoC26-SPAM` | 2026-07-28 |
+| 8 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Add a Pydantic response model for the insights scores endpo…](https://github.com/ishita2740/Rhythma/pull/241) | `ECSoC26` `ECSoC26-L1` | 2026-07-28 |
+| 9 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: add auth flow with email/password login, refresh tokens, pa…](https://github.com/ishita2740/Rhythma/pull/240) | `ECSoC26` `ECSoC26-L3` | 2026-07-27 |
+| 10 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [Add backend test coverage for assistant/health APIs and fix pre-e…](https://github.com/ishita2740/Rhythma/pull/239) | `ECSoC26` `good-pr` `ECSoC26-L2` | 2026-07-27 |
+| 11 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: make CORS origins configurable via ALLOWED_ORIGINS env var](https://github.com/ishita2740/Rhythma/pull/238) | `ECSoC26` `ECSoC26-L1` | 2026-07-27 |
+| 12 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [ feat: add rate limiting to /assistant/chat endpoint and fix pre-…](https://github.com/ishita2740/Rhythma/pull/237) | `ECSoC26` `ECSoC26-L2` | 2026-07-27 |
+| 13 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [Feature: Data export flow (#106)](https://github.com/ishita2740/Rhythma/pull/208) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-25 |
+| 14 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: add delete action for cycle log entries with confirmation d…](https://github.com/ishita2740/Rhythma/pull/198) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-25 |
+| 15 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: add debug-only data mode indicator for live vs dev detectio…](https://github.com/ishita2740/Rhythma/pull/196) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-25 |
+| 16 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: wire lifestyle component of MHS to real profile data with f…](https://github.com/ishita2740/Rhythma/pull/195) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-25 |
+| 17 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [chore : remove isTesting flag and static mock fields from LocalSt…](https://github.com/ishita2740/Rhythma/pull/181) | `ECSoC26` `ECSoC26-L3` `good-pr` | 2026-07-24 |
+| 18 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [fix (#124) : enforce HTTPS for release builds](https://github.com/ishita2740/Rhythma/pull/179) | `ECSoC26` `ECSoC26-L1` `good-pr` | 2026-07-23 |
+| 19 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [fix (#164) : null-safe stream getters and profile sync retry queu…](https://github.com/ishita2740/Rhythma/pull/168) | `ECSoC26` `good-pr` `ECSoC26-L2` | 2026-07-22 |
+| 20 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [chore : remove unused AssistantService.getLanguages() method](https://github.com/ishita2740/Rhythma/pull/167) | `ECSoC26` `ECSoC26-INVALID` | 2026-07-22 |
+| 21 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [chore : add Retry-After header to 429 rate-limit responses](https://github.com/ishita2740/Rhythma/pull/169) | `ECSoC26` `ECSoC26-L1` `good-pr` | 2026-07-22 |
+| 22 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: implement client-side Firebase initialization & offline-fir…](https://github.com/ishita2740/Rhythma/pull/154) | `ECSoC26` `good-backend` `ECSoC26-L3` | 2026-07-21 |
+| 23 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [perf (#145) : optimize cycle log history query with Firestore com…](https://github.com/ishita2740/Rhythma/pull/155) | `ECSoC26` `ECSoC26-L1` `good-pr` `backend` | 2026-07-20 |
+| 24 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat : Backend wiring for logging, dashboard, and insights (inclu…](https://github.com/ishita2740/Rhythma/pull/57) | `ECSoC26` `good-backend` `ECSoC26-L3` `good-pr` | 2026-07-20 |
+| 25 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: add rate limiting and generic auth error messages (Issue #3…](https://github.com/ishita2740/Rhythma/pull/52) | `enhancement` `ECSoC26` `ECSoC26-L2` `backend` | 2026-07-06 |
+| 26 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Phase 3 Flutter integration (JWT auth, remove Gemini key, b…](https://github.com/ishita2740/Rhythma/pull/22) | `enhancement` `ECSoC26` `good-backend` `ECSoC26-L3` | 2026-07-05 |
+| 27 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Implement CI/CD pipeline with GitHub Actions and minor bug …](https://github.com/ishita2740/Rhythma/pull/55) | `enhancement` `ECSoC26` `good-pr` `ECSoC26-L2` | 2026-07-09 |
+| 28 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [[BUG] : Fix Android build error by configuring coreLibraryDesugar…](https://github.com/ishita2740/Rhythma/pull/58) | `ECSoC26` `ECSoC26-L1` `good-pr` | 2026-07-09 |
+| 29 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: link SMS Summary screen into navigation and backend (#26)](https://github.com/ishita2740/Rhythma/pull/59) | `ECSoC26` `good-backend` `ECSoC26-L3` | 2026-07-17 |
+| 30 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: scaffold web application with JWT authentication and protec…](https://github.com/ishita2740/Rhythma/pull/60) | `ECSoC26` `good-backend` `good-pr` `ECSoC26-L2` | 2026-07-09 |
+| 31 | [madhav2348/ss_ai](https://github.com/madhav2348/ss_ai) | [feat: add OCR worker stub](https://github.com/madhav2348/ss_ai/pull/101) | `SSoC26` `Medium` | 2026-07-06 |
+| 32 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: Phase 2 database integration with Firestore (real user stor…](https://github.com/ishita2740/Rhythma/pull/15) | `ECSoC26` `good-backend` `ECSoC26-L2` | 2026-07-04 |
+| 33 | [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | [feat: implement Phase 1 security fixes (JWT auth, rate limiting, …](https://github.com/ishita2740/Rhythma/pull/6) | `bug` `ECSoC26` `good-backend` `ECSoC26-L3` | 2026-07-03 |
+| 34 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | [feat: replace magic strings with PLATFORMS constants (Task 5)](https://github.com/vishnukothakapu/linkid/pull/358) | `feature` `ECSoC26-L2` `ECSoC26` | 2026-07-02 |
+| 35 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | [feat: add database indexes for performance (Task 3)](https://github.com/vishnukothakapu/linkid/pull/357) | `feature` `ECSoC26-L1` `ECSoC26` | 2026-07-01 |
+| 36 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | [feat: enforce strong password validation (Task 2)](https://github.com/vishnukothakapu/linkid/pull/356) | `feature` `ECSoC26-L1` `ECSoC26` | 2026-07-01 |
+| 37 | [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | [feat: add /api/health endpoint with database connectivity check](https://github.com/vishnukothakapu/linkid/pull/355) | `feature` `ECSoC26-L1` `ECSoC26` `ECSoC26-SPRINT-L1` | 2026-07-01 |
+| 38 | [rhoopphiuchi/Java_Enlightment](https://github.com/rhoopphiuchi/Java_Enlightment) | [Update README](https://github.com/rhoopphiuchi/Java_Enlightment/pull/3) | — | 2026-06-08 |
+| 39 | [rhoopphiuchi/Java_Enlightment](https://github.com/rhoopphiuchi/Java_Enlightment) | [Add files via upload](https://github.com/rhoopphiuchi/Java_Enlightment/pull/2) | — | 2026-06-08 |
+| 40 | [Rishav123918/Parking_Application_C-](https://github.com/Rishav123918/Parking_Application_C-) | [Parking System Application with more features ](https://github.com/Rishav123918/Parking_Application_C-/pull/1) | — | 2026-02-21 |
 <!-- PR_LIST_END -->
 
 ---
